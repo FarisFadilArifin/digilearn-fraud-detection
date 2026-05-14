@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+optuna
+joblib
+xgboost
+lightgbm
+catboost
+ipykernel
